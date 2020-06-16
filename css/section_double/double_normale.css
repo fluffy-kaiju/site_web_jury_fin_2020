@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+/* Styles pour toutes les sections */
+.double .colonne{
+	margin: 0;
+	padding: 50px;
+}
+.double .colonne .bloc{
+    width: 80%;
+    height: 60vh;
+    margin: auto;
+}
+.double .colonne .bloc img{}
+.double .colonne p{}
+.double .colonne h2{}
+.double .colonne a{}
+/* Styles spécifiques à la section avec l'image à gauche */
+.double_gauche .colonne{
+	background-color: #AAAAAA;
+}
+
+.double.double_gauche .colonne .bloc img{}
+.double.double_gauche .colonne p{}
+.double.double_gauche .colonne h2{}
+.double.double_gauche .colonne a{
+	color: #FFFFFF;
+}
+.double.double_gauche .colonne a:hover{
+	color: #00FFFF;
+}
+
+/* Styles spécifiques à la section avec l'image à droite */
+.double_droite .colonne{
+	background-color: #EEEEEE;
+}
+
+.double.double_droite .colonne .bloc img{}
+.double.double_droite .colonne p{}
+.double.double_droite .colonne h2{}
+.double.double_droite .colonne a{
+	color: #333333;
+}
+.double.double_droite .colonne a:hover{
+	color: #00FFFF;
+}

@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+body.page{}
+/* Modifier la colonne de gauche */
+body.page .double.double_gauche .colonne{}
+body.page .double.double_gauche .colonne{}
+body.page .double.double_gauche .colonne .bloc{}
+body.page .double.double_gauche .colonne .bloc img{}
+body.page .double.double_gauche .colonne{}
+body.page .double.double_gauche .colonne .bloctexte{}
+body.page .double.double_gauche .colonne h2{}
+body.page .double.double_gauche .colonne p{}
+body.page .double.double_gauche .colonne a{}
+body.page .double.double_gauche .colonne a:hover{}
+/* Modifier la colonne de droite */
+body.page .double.double_droite .colonne{}
+body.page .double.double_droite .colonne{}
+body.page .double.double_droite .colonne .bloc{}
+body.page .double.double_droite .colonne .bloc img{}
+body.page .double.double_droite .colonne{}
+body.page .double.double_droite .colonne .bloctexte{}
+body.page .double.double_droite .colonne h2{}
+body.page .double.double_droite .colonne p{}
+body.page .double.double_droite .colonne a{}
+body.page .double.double_droite .colonne a:hover{}
