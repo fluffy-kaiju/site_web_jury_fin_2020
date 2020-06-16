@@ -14,7 +14,7 @@
 .topnav a {
 	float: left;
 	display: block;
-	color: #f2f2f2;
+	color: #000000;
 	text-align: center;
 	padding: 20px;
 	margin: 10px;
@@ -33,11 +33,32 @@
 .navigation{
 	float: right;
 }
-.logo img{
+
+
+
+
+/* 2h de ma vie perdu a jamais */
+.svgC svg{
 	height: 60px;
 	width: auto;
 	float: left;
+	fill: #fff;
+	
 }
+.svgC svg:hover {
+	fill: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
 .active {
 	background-color: #4CAF50;
 	color: white;
