@@ -26,7 +26,10 @@ header .container{
 }
 
 header h1{
-	color:#000000;
+	color:#FFFFFF;
+	background-color: #000000;
+	width: 60%;
+	text-align: center ;
 }
 header p{
 	/*background-color: rgba(255,255,255,0.50);

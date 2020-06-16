@@ -27,8 +27,10 @@ p{
 }
 h1{
     font-size: 3em;
-	font-family: 'DM Serif Display', serif;
+	font-family: 'ticketingregular';
 	font-weight: 400;
+	color: #F50404;
+	
 }
 h2{
 	    font-size: 1.5em;
