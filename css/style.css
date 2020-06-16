@@ -1,11 +1,16 @@
+@charset "utf-8";
+
 @font-face {
     font-family: 'ticketingregular';
-    src: url('ticketing-webfont.woff2') format('woff2'),
-         url('ticketing-webfont.woff') format('woff');
+    src: url('/ticketing-webfont.woff2') format('woff2'),
+         url('/ticketing-webfont.woff') format('woff');
+	src: url("/Ticketing.ttf");
     font-weight: normal;
     font-style: normal;
- 
+
 }
+
+
 body {
     font-family: 'ticketingregular';
 }
