@@ -6,8 +6,7 @@ header{
 	height: auto;
 	min-height: 100vh;
 	padding-top: 80px;
-	background-color: #FFFFFF;
-	background-image: url(../images/nom-de-mon-image.jpg);
+	background-image: url("../../images/background_final.png");
 	background-repeat: repeat;
 	background-position: right center;
 	background-attachment: fixed;

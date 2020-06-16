@@ -16,7 +16,11 @@
 .double .colonne a{}
 /* Styles spécifiques à la section avec l'image à gauche */
 .double_gauche .colonne{
-	background-color: #AAAAAA;
+	background-image: url(../../images/background_final.png);
+    background-repeat: repeat;
+    background-position: right center;
+    background-attachment: fixed;
+    overflow: hidden;
 }
 
 .double.double_gauche .colonne .bloc img{}

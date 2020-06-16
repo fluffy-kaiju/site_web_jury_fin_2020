@@ -1,7 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
 .triple{
-	background-color:#FFFFFF;
+	background-image: url("../../images/background_final.png");
+	background-repeat: repeat;
+    background-position: right center;
+    background-attachment: fixed;
+    overflow: hidden;
 }
 .triple .colonne{
 	background-color:#CCCCCC;
@@ -11,3 +15,4 @@
 }
 .triple .colonne p{}
 .triple .colonne a{}
+

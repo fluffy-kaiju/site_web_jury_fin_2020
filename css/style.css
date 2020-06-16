@@ -4,6 +4,21 @@ body{
 	padding: 0;
 	font-family: 'ticketingregular';
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *{
 	position: relative;
 	margin: 0;
@@ -37,7 +52,7 @@ h2{
 	font-family: 'DM Serif Display', serif;
 	font-weight: 400;
 }
-video{
+/*video{
 	min-width: 100%;
     min-height: 100%;
     width: auto;
@@ -47,6 +62,7 @@ video{
   	position:absolute;
 	z-index: 0;
 }
+*/
 .container{
 	width: 80%;
 	margin: auto;
@@ -59,7 +75,6 @@ video{
 	flex:1;
 	margin: 5px;
 	padding: 5px;
-	background-color: rgba(128,170,196,1.00)
 }
 .colonne img{
 	width: 100%;
