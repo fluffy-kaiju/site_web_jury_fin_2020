@@ -35,7 +35,11 @@
 
 /* Styles spécifiques à la section avec l'image à droite */
 .double_droite .colonne{
-	background-color: #EEEEEE;
+	background-image: url(/images/background_final.png);
+	background-repeat: repeat;
+    background-position: right center;
+    background-attachment: fixed;
+    overflow: hidden;
 }
 
 .double.double_droite .colonne .bloc img{}

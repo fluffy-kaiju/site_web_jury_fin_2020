@@ -61,8 +61,8 @@ h2{
 .flex{
 	display: flex;
 }
-#section2{
-	padding-top: 10%;
+.section22{
+	padding-top: 5%;
 }
 .colonne{
 	flex:1;
