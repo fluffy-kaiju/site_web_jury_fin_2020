@@ -37,6 +37,10 @@
 }
 #section2{
 	background-image: url(/images/background_final.png);
+	background-repeat: repeat;
+    background-position: right center;
+    background-attachment: fixed;
+    overflow: hidden;
 }
 .double.double_gauche .colonne a:hover{
 	color: #00FFFF;
