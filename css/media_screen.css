@@ -31,6 +31,9 @@ header{
 	width: 100% !important;
 	float: none !important;
 	}
+	.double .colonne, p{
+		padding: 6px !important;
+	}
 	.double.double_droite .colonne .bloctexte, .double.double_gauche .colonne .bloctexte{
 		padding: 20px !important;
 	}
