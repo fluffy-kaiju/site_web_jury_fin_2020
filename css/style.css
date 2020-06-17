@@ -39,6 +39,10 @@ p{
 	color: #000000;
     margin-block-start: 1em;
     margin-block-end: 1em;
+	
+}
+.intro p{
+	font-size: 2em;
 }
 h1{
     font-size: 3em;
