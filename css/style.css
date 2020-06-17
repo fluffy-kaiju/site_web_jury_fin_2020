@@ -5,20 +5,6 @@ body{
 	font-family: 'ticketingregular';
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 *{
 	position: relative;
 	margin: 0;
@@ -74,6 +60,9 @@ h2{
 }
 .flex{
 	display: flex;
+}
+#section2{
+	padding-top: 10%;
 }
 .colonne{
 	flex:1;

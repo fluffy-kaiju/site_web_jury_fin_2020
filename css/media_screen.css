@@ -19,6 +19,9 @@ header{
 .flex{
 		display: block;
 	}
+	#section2{
+		padding-top: 0px;
+	}
 .double .colonne, .double .colonne *, .double.double_droite .colonne *, .double.double_gauche .colonne *{
 	position: relative !important;
 	margin: 0 !important;
